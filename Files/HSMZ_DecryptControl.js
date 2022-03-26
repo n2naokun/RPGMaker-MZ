@@ -1,5 +1,5 @@
 //=============================================================================
-// HSMZ_HSMZ_DecryptControl.js
+// HSMZ_DecryptControl.js
 // ----------------------------------------------------------------------------
 // Copyright (c) 2021 n2naokun(柊菜緒)
 // This software is released under the MIT License.
@@ -34,7 +34,7 @@
 "use strict";//厳格なエラーチェック
 
 var Imported = Imported || {};
-Imported.HSMZ_Custom_DisableHPMPTP = true;
+Imported.HSMZ_DecryptControl = true;
 // 他のプラグインとの連携用シンボル
 
 (function (_global) {
